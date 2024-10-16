@@ -1,9 +1,59 @@
-# community-architects.net
+# Property Website
 
-The ayushedith homepage
+Welcome to the Property Website! This project is designed to help users find their dream properties with ease. Whether you’re looking to buy, sell, or rent, our user-friendly platform provides a comprehensive solution for all your property needs.
 
-![Discord](https://img.shields.io/discord/747467177979805847?logo=discord&logoColor=ffffff&color=5a65ea)
-![Website](https://img.shields.io/website?up_message=running&up_color=71b280&down_message=down&down_color=c16969&url=https%3A%2F%2Fcommunity-architects.net)
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+- **Extensive Property Listings**: Browse a wide variety of properties, including apartments, family homes, and luxury estates.
+- **Advanced Search Filters**: Easily find properties that match your specific preferences and requirements.
+- **User-Friendly Interface**: Intuitive design for seamless navigation and property exploration.
+- **Responsive Design**: Optimized for both desktop and mobile devices, ensuring a great experience on any platform.
+- **Contact Options**: Easily inquire about properties or schedule viewings through integrated contact options.
+
+## Technologies Used
+
+- **HTML**: For structuring the web pages.
+- **CSS**: For styling the website and enhancing its appearance.
+- **JavaScript**: For interactive features and functionalities.
+- **React**: For building user interfaces and managing component states.
+- **Node.js**: (Optional) For server-side functionality if applicable.
+
+## Installation
+
+To get started with the Property Website, follow these steps:
+
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/Pritikumari32123/responsiveWebsiteProperty
+    ```
+
+2. **Navigate to the Project Directory**:
+    ```bash
+    cd property-website
+    ```
+
+3. **Install Dependencies**:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+To run the website locally, use the following command:
+
+```bash
+npm start
+
 
 ## Scripts
 
